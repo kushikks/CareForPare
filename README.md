@@ -1,2 +1,1 @@
-# CareForPare
-app for the elders -kodikon4.0
+A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
